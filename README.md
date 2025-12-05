@@ -8,10 +8,9 @@ An AI chatbot that detects emotions in real-time and generates empathetic respon
 - **Conversation Tracking**: Saves chats and provides emotion statistics
 - **Easy to Use**: Interactive terminal interface with simple commands
 
-## Quick Start
-1. Click the "Open in Colab" badge above
-2. Run all cells (Runtime → Run all)
-3. Start chatting!
+## Dataset Information
+- **Dataset**: [Emotion Detection Dataset]([https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/kushagra3204/sentiment-and-emotion-analysis-dataset))
+- **Files Used**: `combined_emotion.csv` (combined from multiple Kaggle datasets)
 
 ## Example
 You: I got a promotion!
