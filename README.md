@@ -1,6 +1,6 @@
 # Empathetic-AI-Chatbot-with-Real-Time-Emotion-Detection
 An emotion-aware conversational AI chatbot that combines state-of-the-art NLP models with empathetic response templates. Detects emotions in real-time using a fine-tuned BERT model and generates contextually appropriate, emotionally intelligent responses using Facebook's BlenderBot Model.
-An AI chatbot that detects emotions in real-time and generates empathetic responses using RoBERTa for emotion detection and BlenderBot for conversation.
+An AI chatbot that detects emotions in real-time and generates empathetic responses using BERT for emotion detection and BlenderBot for conversation.
 
 ## Features
 - **Real-time Emotion Detection**: Identifies 7 emotions with confidence scores
@@ -27,6 +27,6 @@ Bot [joy 🟢 92%]: That's wonderful news! Tell me more about it!
 
 ## Technical Stack
 - PyTorch + HuggingFace Transformers
-- RoBERTa (emotion detection)
+- BERT (emotion detection)
 - BlenderBot (conversation)
 - JSON for data export
